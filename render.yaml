@@ -1,3 +1,3 @@
 services:
   - type: worker
-startCommand: new.py
+startCommand: "python3 new.py"
